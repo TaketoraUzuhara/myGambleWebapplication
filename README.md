@@ -1,0 +1,2 @@
+# myGambleWebapplication
+Djangoの実装訓練用のウェブアプリケーション。賭けのアプリ実装。
